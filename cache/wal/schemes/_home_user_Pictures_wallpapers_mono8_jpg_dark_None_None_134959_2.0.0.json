@@ -1,0 +1,28 @@
+{
+    "checksum": "ce026d05704d28764bb069ef171a33aa",
+    "wallpaper": "/home/user/Pictures/wallpapers/mono8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161e0d",
+        "foreground": "#c4c6c2",
+        "cursor": "#c4c6c2"
+    },
+    "colors": {
+        "color0": "#161e0d",
+        "color1": "#393A39",
+        "color2": "#403F3E",
+        "color3": "#3F403E",
+        "color4": "#41423E",
+        "color5": "#3F3F40",
+        "color6": "#3F4140",
+        "color7": "#c4c6c2",
+        "color8": "#67705c",
+        "color9": "#393A39",
+        "color10": "#403F3E",
+        "color11": "#3F403E",
+        "color12": "#41423E",
+        "color13": "#3F3F40",
+        "color14": "#3F4140",
+        "color15": "#c4c6c2"
+    }
+}

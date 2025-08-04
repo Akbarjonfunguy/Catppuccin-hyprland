@@ -1,0 +1,21 @@
+set $wallpaper /home/user/Pictures/wallpapers/atlantis.jpg
+
+set $background #20222c
+set $foreground #c7c7ca
+
+set $color0 #20222c
+set $color1 #A19BAA
+set $color2 #DFA8AE
+set $color3 #B8D1B5
+set $color4 #E3CCB5
+set $color5 #90AED4
+set $color6 #96B2D9
+set $color7 #c7c7ca
+set $color8 #66697c
+set $color9 #A19BAA
+set $color10 #DFA8AE
+set $color11 #B8D1B5
+set $color12 #E3CCB5
+set $color13 #90AED4
+set $color14 #96B2D9
+set $color15 #c7c7ca

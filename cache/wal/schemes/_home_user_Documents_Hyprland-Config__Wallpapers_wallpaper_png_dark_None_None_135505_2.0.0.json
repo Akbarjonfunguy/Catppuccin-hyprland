@@ -1,0 +1,28 @@
+{
+    "checksum": "1b2ac5cff13dfdd032b278b01e96cc12",
+    "wallpaper": "/home/user/Documents/Hyprland-Config/.Wallpapers/wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1e25",
+        "foreground": "#c6c6c8",
+        "cursor": "#c6c6c8"
+    },
+    "colors": {
+        "color0": "#1b1e25",
+        "color1": "#5C758D",
+        "color2": "#6D92A9",
+        "color3": "#78B4C8",
+        "color4": "#9BADA1",
+        "color5": "#87ADC6",
+        "color6": "#8BC1D1",
+        "color7": "#c6c6c8",
+        "color8": "#626878",
+        "color9": "#5C758D",
+        "color10": "#6D92A9",
+        "color11": "#78B4C8",
+        "color12": "#9BADA1",
+        "color13": "#87ADC6",
+        "color14": "#8BC1D1",
+        "color15": "#c6c6c8"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "checksum": "2ce41579295e4115e04d14fe8869f209",
+    "wallpaper": "/home/user/Pictures/wallpapers/atlantis.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#20222c",
+        "foreground": "#c7c7ca",
+        "cursor": "#c7c7ca"
+    },
+    "colors": {
+        "color0": "#20222c",
+        "color1": "#A19BAA",
+        "color2": "#DFA8AE",
+        "color3": "#B8D1B5",
+        "color4": "#E3CCB5",
+        "color5": "#90AED4",
+        "color6": "#96B2D9",
+        "color7": "#c7c7ca",
+        "color8": "#66697c",
+        "color9": "#A19BAA",
+        "color10": "#DFA8AE",
+        "color11": "#B8D1B5",
+        "color12": "#E3CCB5",
+        "color13": "#90AED4",
+        "color14": "#96B2D9",
+        "color15": "#c7c7ca"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "5d62e452b130a984abad582999c69d15",
+    "wallpaper": "/home/user/Pictures/wallpapers/gruvbox2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#24140f",
+        "foreground": "#c8c4c3",
+        "cursor": "#c8c4c3"
+    },
+    "colors": {
+        "color0": "#24140f",
+        "color1": "#905834",
+        "color2": "#947253",
+        "color3": "#79854E",
+        "color4": "#A09561",
+        "color5": "#C4A168",
+        "color6": "#CCB59E",
+        "color7": "#c8c4c3",
+        "color8": "#74635e",
+        "color9": "#905834",
+        "color10": "#947253",
+        "color11": "#79854E",
+        "color12": "#A09561",
+        "color13": "#C4A168",
+        "color14": "#CCB59E",
+        "color15": "#c8c4c3"
+    }
+}

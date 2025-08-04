@@ -1,0 +1,28 @@
+{
+    "checksum": "90b2cb176201440330d16ab524e31077",
+    "wallpaper": "/home/user/.config/cava/shaders/1.mp3",
+    "alpha": "100",
+    "special": {
+        "background": "#171611",
+        "foreground": "#c5c4c3",
+        "cursor": "#c5c4c3"
+    },
+    "colors": {
+        "color0": "#171611",
+        "color1": "#AB8B76",
+        "color2": "#B8C45F",
+        "color3": "#788E8B",
+        "color4": "#ADA090",
+        "color5": "#C7AC9F",
+        "color6": "#C9D5AA",
+        "color7": "#c5c4c3",
+        "color8": "#706b5b",
+        "color9": "#AB8B76",
+        "color10": "#B8C45F",
+        "color11": "#788E8B",
+        "color12": "#ADA090",
+        "color13": "#C7AC9F",
+        "color14": "#C9D5AA",
+        "color15": "#c5c4c3"
+    }
+}

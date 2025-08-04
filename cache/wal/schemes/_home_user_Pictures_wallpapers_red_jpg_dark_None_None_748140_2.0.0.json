@@ -1,0 +1,28 @@
+{
+    "checksum": "deffb9639d00507e9b6a2943f9c5e865",
+    "wallpaper": "/home/user/Pictures/wallpapers/red.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100707",
+        "foreground": "#c3c1c1",
+        "cursor": "#c3c1c1"
+    },
+    "colors": {
+        "color0": "#100707",
+        "color1": "#B00604",
+        "color2": "#A32B17",
+        "color3": "#C60C05",
+        "color4": "#D9230C",
+        "color5": "#B35834",
+        "color6": "#E7581A",
+        "color7": "#c3c1c1",
+        "color8": "#695656",
+        "color9": "#B00604",
+        "color10": "#A32B17",
+        "color11": "#C60C05",
+        "color12": "#D9230C",
+        "color13": "#B35834",
+        "color14": "#E7581A",
+        "color15": "#c3c1c1"
+    }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/user/Pictures/wallpapers/atlantis.jpg"
+let background = "#20222c"
+let foreground = "#c7c7ca"
+let cursor     = "#c7c7ca"
+
+" Colors
+let color0  = "#20222c"
+let color1  = "#A19BAA"
+let color2  = "#DFA8AE"
+let color3  = "#B8D1B5"
+let color4  = "#E3CCB5"
+let color5  = "#90AED4"
+let color6  = "#96B2D9"
+let color7  = "#c7c7ca"
+let color8  = "#66697c"
+let color9  = "#A19BAA"
+let color10 = "#DFA8AE"
+let color11 = "#B8D1B5"
+let color12 = "#E3CCB5"
+let color13 = "#90AED4"
+let color14 = "#96B2D9"
+let color15 = "#c7c7ca"
